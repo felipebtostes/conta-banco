@@ -1,5 +1,5 @@
 /**
- * @author Felipe Borsato Tostes
+ * @author Felipe Borsato Tostes (Filho de Everton Andrade Tostes, titular da conta)
  * @version 1.0
  * @since 20/04/2025
  */
